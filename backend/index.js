@@ -9,7 +9,7 @@ app.use(
     origin: [
       "http://localhost:5173",  
       "http://localhost:3000",  
-      "https://payments-app-dusky.vercel.app"
+      "https://payment-application-beta.vercel.app"
     ],
     credentials: true,
   })
